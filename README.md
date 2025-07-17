@@ -50,6 +50,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/farrel-caesarian-a51227289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Farrel%20Caesarian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
+
+
+
+
