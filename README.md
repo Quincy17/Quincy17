@@ -44,7 +44,7 @@
 - ✅ Built a full LMS for Olympiad preparation  
 - ✅ Created VR boxing prototype in Unity  
 - ✅ Built an Internship Management System for JTI POLINEMA  
-- ✅ Built a thesis submission system for JTI POLINEMA  
+- ✅ Built a Thesis Submission System for JTI POLINEMA  
 
 ---
 
