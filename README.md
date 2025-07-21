@@ -39,7 +39,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Projects
 
 - ✅ Built a full LMS for Olympiad preparation  
 - ✅ Created VR boxing prototype in Unity  
