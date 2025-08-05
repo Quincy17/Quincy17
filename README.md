@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on **Chemulation-VR – an educational app to learn chemistry**
-- 🔭 I’m currently working on **HashConv – a private chat application with N2N encryption**
+- 💬 I’m currently working on **HashConv – a private chat application with N2N encryption**
 - 🌱 I’m currently learning **VR Development with Unity for Meta Quest**
 
 ---
