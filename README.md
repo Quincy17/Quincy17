@@ -31,9 +31,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=quincy17&show_icons=true&theme=radical" alt="Farrel's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy17&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quincy17&show_icons=true&theme=radical" alt="Farrel's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy17&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
