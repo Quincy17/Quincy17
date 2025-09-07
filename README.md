@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Chemulation-VR – an educational app to learn chemistry**
 - 💬 I’m currently working on **HashConv – a private chat application with N2N encryption**
 - 🌱 I’m currently learning **VR Development with Unity for Meta Quest**
 
@@ -42,7 +41,7 @@
 ## 🏆 Projects
 
 - ✅ Built a full LMS for Olympiad preparation  
-- ✅ Created VR boxing prototype in Unity  
+- ✅ Created Chemulation-VR in Unity (A learning based game for chemistry)
 - ✅ Built an Internship Management System for JTI POLINEMA  
 - ✅ Built a Thesis Submission System for JTI POLINEMA  
 
