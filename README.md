@@ -3,7 +3,7 @@
 
 ---
 
-- 💬 I’m currently working on **HashConv – a private chat application with N2N encryption**
+- 💬 I’m currently learning to be a Data Analyst using Python and Tableau
 - 🌱 I’m currently learning **VR Development with Unity for Meta Quest**
 
 ---
