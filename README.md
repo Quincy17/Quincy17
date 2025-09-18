@@ -3,7 +3,7 @@
 
 ---
 
-- 💬 I’m currently learning to be a Data Analyst using Python and Tableau
+- 💬 I’m currently learning to be a Data Analyst using Python and Power Bi
 - 🌱 I’m currently learning **VR Development with Unity for Meta Quest**
 
 ---
