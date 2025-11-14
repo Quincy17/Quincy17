@@ -54,4 +54,9 @@
   <a href="https://linkedin.com/in/farrel-caesarian-a51227289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Farrel%20Caesarian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+  <a href="https://portfolio-general-omega.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
+
