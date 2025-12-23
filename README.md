@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farrel Caesarian</h1>
-<h3 align="center">Laravel & Unity VR Developer</h3>
+<h3 align="center">Laravel Developer & Data Scientist</h3>
 
 ---
 
-- 💬 I’m currently learning to be a Data Analyst using Python and Power Bi
-- 🌱 I’m currently learning **VR Development with Unity for Meta Quest**
+- 💬 I'm Currently learning Deep Learning and Generative AI
 
 ---
 
