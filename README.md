@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <b>6th Semester Informatics Engineering Student @ State Polytechnic of Malang</b> <br>
+  <b>Current GPA: 3.81 / 4.00</b>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/farrel-caesarian-a51227289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-general-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
