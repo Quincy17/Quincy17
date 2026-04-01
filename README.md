@@ -13,8 +13,17 @@
 - 🧠 **Focus:** Deep Learning, Generative AI, and Advanced Computer Vision.
 - 🏢 **Experience:** Data Scientist Intern at **PT Kosmetika Global Indonesia**.
 - 🏗️ **Startup:** Founder of **Nexus Product Digital (NPD)** Agency.
-- 📜 **Credentials:** **12+ Professional Certifications** in Web Development, Data Science, and AI.
-- 📈 **Trading:** Advanced SMC/ICT & Quarterly Theory Analysis.
+- 📜 **Credentials:** **12+ Professional Certifications** in Web Dev, Data Science, and AI.
+- 📉 **Trading:** Advanced SMC/ICT & Quarterly Theory Analysis.
+
+---
+
+### 💼 Business & Freelance Impact
+> **Delivered 5+ High-Impact Projects for Real-World Clients**
+- 🌐 **Web Portfolios:** Developed high-converting business websites to attract clients.
+- 🎓 **Custom LMS:** Built a full-scale Learning Management System for Olympiad preparation.
+- 👁️ **Computer Vision Solutions:** Implemented specialized Tensorflow models for client-specific automation.
+- ⭐ **Result:** 100% Client Satisfaction with scalable and maintainable codebases.
 
 ---
 
@@ -46,7 +55,6 @@
 #### 💻 Software Engineering & IoT
 | Project | Tech Stack | Type |
 | :--- | :--- | :--- |
-| **Olympiad LMS** | Laravel, MySQL | Full-scale Learning Management System for Olympiad prep. |
 | **IoT Real-time Weighing** | Laravel, RS232, IoT | Enterprise-grade hardware to web data synchronization. |
 | **HealthCare App** | Laravel, PWA, Barcode API | AI-ready nutrition tracker with barcode scanning. |
 | **Project Management Tool** | Laravel, React, MongoDB | High-performance SaaS tool (Plane.so architecture). |
@@ -57,8 +65,7 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quincy17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincy17&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quincy17&theme=react-dark&hide_border=true&area=true&color=712CF9" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
