@@ -48,7 +48,7 @@
 | :--- | :--- | :--- |
 | **Olympiad LMS** | Laravel, MySQL | Full-scale Learning Management System for Olympiad prep. |
 | **IoT Real-time Weighing** | Laravel, RS232, IoT | Enterprise-grade hardware to web data synchronization. |
-| **HealthCare App** | Flutter, Barcode API | AI-ready nutrition tracker with barcode scanning. |
+| **HealthCare App** | Laravel, PWA, Barcode API | AI-ready nutrition tracker with barcode scanning. |
 | **Project Management Tool** | Laravel, React, MongoDB | High-performance SaaS tool (Plane.so architecture). |
 | **Internify & Thesis Sys** | Laravel, MySQL | Management ecosystems for academic workflows at Polinema. |
 | **Chemulation-VR** | Unity, C# | Immersive VR simulation for chemical laboratory education. |
