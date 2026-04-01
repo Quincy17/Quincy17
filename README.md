@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <b>6th Semester Informatics Engineering Student @ State Polytechnic of Malang</b> <br>
-  <b>Current GPA: 3.81 / 4.00</b>
+  <b>6th Semester Informatics Engineering Student @ State Polytechnic of Malang, Indonesia</b> <br>
+  <b>Current GPA: 3.82 / 4.00</b>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,mongodb,mysql,postgres,docker,n8n,figma,unity,cs,java,github,vscode,tensorflow,react,flutter&perline=9" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,react,mongodb,mysql,postgres,docker,n8n,figma,cs,java,github,vscode,tensorflow,react,flutter&perline=9" />
 </p>
 
 ---
