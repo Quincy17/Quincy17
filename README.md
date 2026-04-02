@@ -53,7 +53,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Multi-Expression Face Recognition** | Python, YOLO, CNN | Advanced deep learning for facial expression analysis (Thesis). |
-| **Hole in The Wall** | TensorFlow, Laravel | Interactive CV-based game using real-time body tracking. |
+| **Food Detector** | Python, Tensorflow | Food Image Detector and Classifier. |
 | **Air Quality Analysis** | Python, Scikit-Learn | Predictive modeling for pollution & respiratory health correlation. |
 | **Financial Market Analysis** | Python, TradingView | Automated technical analysis using SMC/ICT algorithmic logic. |
 
@@ -61,6 +61,7 @@
 | Project | Tech Stack | Type |
 | :--- | :--- | :--- |
 | **IoT Real-time Weighing** | Laravel, RS232, IoT | Enterprise-grade hardware to web data synchronization. |
+| **Hole in The Wall** | TensorFlow, Laravel | Interactive CV-based game using real-time body tracking. |
 | **HealthCare App** | Laravel, PWA, Barcode API | AI-ready nutrition tracker with barcode scanning. |
 | **Project Management Tool** | Laravel, React, MongoDB | High-performance SaaS tool (Plane.so architecture). |
 | **Internify & Thesis Sys** | Laravel, MySQL | Management ecosystems for academic workflows at Polinema. |
