@@ -61,10 +61,11 @@
 | Project | Tech Stack | Type |
 | :--- | :--- | :--- |
 | **IoT Real-time Weighing** | Laravel, RS232, IoT | Enterprise-grade hardware to web data synchronization. |
-| **Hole in The Wall** | TensorFlow, Laravel | Interactive CV-based game using real-time body tracking. |
+| **Hole in The Wall** | Laravel, Tensorflow | Interactive CV-based game using real-time body tracking. |
 | **HealthCare App** | Laravel, PWA, Barcode API | AI-ready nutrition tracker with barcode scanning. |
+| **Real-time Chat Application** | Laravel, Websocket, React | A real-time chat application with N2N encryption. |
 | **Project Management Tool** | Laravel, React, MongoDB | High-performance SaaS tool (Plane.so architecture). |
-| **Internify & Thesis Sys** | Laravel, MySQL | Management ecosystems for academic workflows at Polinema. |
+| **Intern Management System** | Laravel, MySQL | Management ecosystems for academic workflows at Polinema. |
 | **Chemulation-VR** | Unity, C# | Immersive VR simulation for chemical laboratory education. |
 
 ---
