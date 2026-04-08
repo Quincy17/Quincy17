@@ -42,7 +42,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,react,mongodb,mysql,postgres,docker,unity,figma,cs,java,github,vscode,tensorflow,firebase,flutter&perline=9" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,next,react,mongodb,mysql,postgres,docker,unity,figma,cs,java,github,vscode,flask,tensorflow,firebase,flutter&perline=10" />
 </p>
 
 ---
