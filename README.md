@@ -60,6 +60,7 @@
 #### 💻 Software Engineering & IoT
 | Project | Tech Stack | Type |
 | :--- | :--- | :--- |
+| **Pricommerce** | React Native Expo, Interactive QRIS | Cross Platform E-Commerce boilerplate with QRIS integration |
 | **IoT Real-time Weighing** | Laravel, Livewire, IoT | Enterprise-grade hardware to web data synchronization. |
 | **Hole in The Wall** | Laravel, Tensorflow, React | Interactive CV-based game using real-time body tracking. |
 | **HealthGrade** | Laravel, PWA, Barcode API | AI-ready nutrition tracker with barcode scanning. |
